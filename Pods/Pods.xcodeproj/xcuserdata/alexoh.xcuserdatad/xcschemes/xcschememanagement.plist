@@ -14,15 +14,35 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>SVGPlayButton-SVGPlayButton.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SVGPlayButton.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>161C1F19382C1B202F2162E4A214DB01</key>
+		<key>4878C70B21CA37D7CB8A476BF986741B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>4878C70B21CA37D7CB8A476BF986741B</key>
+		<key>AB5911622B8FD975FBE652C3206D223E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B55B9BFDE159AD1136F246A757CFD0A8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C18B11C350E310A054BB6F3CB1194DA7</key>
 		<dict>
 			<key>primary</key>
 			<true/>

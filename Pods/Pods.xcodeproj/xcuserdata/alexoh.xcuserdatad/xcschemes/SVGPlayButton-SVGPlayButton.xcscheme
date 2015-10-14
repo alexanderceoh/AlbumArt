@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '0AB698718325FAA8C22EB01A'
-               BlueprintName = 'Pods-AlbumArt'
+               BlueprintIdentifier = '33FEE2285BDC15BDAA072182'
+               BlueprintName = 'SVGPlayButton-SVGPlayButton'
                ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'Pods_AlbumArt.framework'>
+               BuildableName = 'SVGPlayButton.bundle'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

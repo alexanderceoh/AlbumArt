@@ -20,11 +20,14 @@ PODS:
   - AFNetworking/UIKit (2.6.0):
     - AFNetworking/NSURLConnection
     - AFNetworking/NSURLSession
+  - SVGPlayButton (0.2.3)
 
 DEPENDENCIES:
   - AFNetworking (~> 2.6)
+  - SVGPlayButton (~> 0.2)
 
 SPEC CHECKSUMS:
   AFNetworking: 79f7eb1a0fcfa7beb409332b2ca49afe9ce53b05
+  SVGPlayButton: 837de86182782e83bd7ca8927390b17b9a90ca2f
 
 COCOAPODS: 0.39.0
